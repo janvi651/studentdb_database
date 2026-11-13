@@ -2,7 +2,7 @@ Student Database
 
 Project Description
 
-A MySQL-based Student Management Database designed to manage student details, courses, admissions and fee payments.
+A MySQL-based Student Database designed to manage student details, courses, admissions and fee payments.
 
 Technologies Used
 
